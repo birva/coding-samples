@@ -1,0 +1,5 @@
+com\pageProcessor\Worker.class
+com\pageProcessor\PageProcessorService.class
+com\pageProcessor\JobInfo.class
+com\pageProcessor\db\DBOperations.class
+com\pageProcessor\JobProducer.class
